@@ -1,0 +1,6 @@
+{
+  "token": "BOT TOKEN",
+  "clientId": "APPLICATION ID FOR BOT",
+  "guildId": "SERVER ID",
+  "autoRole": "AutoRole ID"
+}
